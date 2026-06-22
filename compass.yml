@@ -1,0 +1,16 @@
+name: skip-ui
+id: ari:cloud:compass:433f2c52-baf3-4040-bf96-3fd09bf998da:component/c10a88dc-15a4-484b-b7c7-f1c56f373c78/19ff2edd-2d63-439c-9dd3-05f4759f4186
+description: SwiftUI for Android
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/MollisWare/skip-ui
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
